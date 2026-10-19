@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-image
+SimpleITK
+sigpy
+pywavelets
+numba

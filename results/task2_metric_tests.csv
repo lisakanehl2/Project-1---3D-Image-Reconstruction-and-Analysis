@@ -1,0 +1,5 @@
+test case,PSNR,SSIM,NRMSE,NMI
+identical,inf,1.0,0.0,2.0
+half brightness,inf,1.0,0.0,2.0
+noise (σ = 0.05),26.384,0.561,0.199,1.189
+blur (σ = 1.5 px),26.064,0.818,0.206,1.244
