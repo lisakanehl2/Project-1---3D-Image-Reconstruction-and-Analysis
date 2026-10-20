@@ -22,7 +22,7 @@ jupyter notebook project1.ipynb
 ```
 
 `t1.nii`, `projection_ksp.npy` and `projection_coord.npy` must be in the same folder.
-The whole notebook takes about 30 minutes on 2 cores (Task 4 and Task 7 are the slow parts; set `N_CPU` at the top).
+The whole notebook takes about 35 minutes on 2 cores (Task 4 and Task 7 are the slow parts; set `N_CPU` at the top).
 
 ## Output
 
